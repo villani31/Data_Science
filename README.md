@@ -7,7 +7,7 @@
 
 Como cientista de dados estou aprendendo e treinando com projetos práticos. Experiência na área de tecnologia, com isso uso a experiência, para contribuir com o negócio e habilidade na resolução de problemas.
 
-Minhas credenciais incluem um MBA em Business Intelligence, e Técnologo em Redes.
+Minhas credenciais incluem um MBA em Business Intelligence, e curso superior em Técnologo em Redes.
 
 **Experiência em:** Python, Linux, Segurança em Redes.
 
