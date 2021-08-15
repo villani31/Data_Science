@@ -10,7 +10,7 @@ Descrever
 **Experiência em:** Python, Linux.
 
 **Links:**
-* [LinkedIn] <a href="https://www.linkedin.com/in/thiagovillani" target="_blank">Go</a>
+* [LinkedIn](https://www.linkedin.com/in/thiagovillani)
 * [Medium](https://www.medium.com)
 
 
