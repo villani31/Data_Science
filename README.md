@@ -19,7 +19,7 @@ Minhas credenciais incluem um MBA em Business Intelligence, e curso superior em 
 ## Projetos:
 Veja os projetos publicados:
 
-* **Projeto:** link
+* **Analise de Dados do Airbnb:** https://github.com/villani31/Analise_Airbnb/
 
 ---
 
