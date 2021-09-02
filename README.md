@@ -9,7 +9,7 @@ Como cientista de dados estou aprendendo e treinando com projetos práticos. Exp
 
 Minhas credenciais incluem um MBA em Business Intelligence, e curso superior em Técnologo em Redes.
 
-**Experiência em:** Python para Data Science, Linux, Gerência dm Redes.
+**Experiência em:** Python para Data Science, Linux, Gerência de Redes.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/thiagovillani)
