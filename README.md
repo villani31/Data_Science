@@ -3,13 +3,13 @@
 </p>
 
 # Thiago Villani
-<sub>*Cientista de Dados*</sub>
+<sub>*Ciência de Dados*</sub>
 
 Como cientista de dados estou aprendendo e treinando com projetos práticos. Experiência na área de tecnologia, com isso uso a experiência, para contribuir com o negócio e habilidade na resolução de problemas.
 
 Minhas credenciais incluem um MBA em Business Intelligence, e curso superior em Técnologo em Redes.
 
-**Experiência em:** Python para Data Science, Linux, Segurança em Redes.
+**Experiência em:** Python para Data Science, Linux, Gerência dm Redes.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/thiagovillani)
