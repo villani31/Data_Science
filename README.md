@@ -13,7 +13,7 @@ Minhas credenciais incluem um MBA em Business Intelligence, e curso superior em 
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/thiagovillani)
-* [Medium](https://www.medium.com)
+* [Medium](https://medium.com/@iamthiagovillani)
 
 
 ## Projetos:
