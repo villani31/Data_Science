@@ -9,7 +9,7 @@ Como cientista de dados estou aprendendo e treinando com projetos práticos. Exp
 
 Minhas credenciais incluem um MBA em Business Intelligence, e curso superior em Técnologo em Redes.
 
-**Experiência em:** Python para Data Science, Banco de dados, Linux, Gerência de Redes.
+**Experiência em:** Python para Data Science, Banco de dados, SQL, Linux, Gerência de Redes.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/thiagovillani)
@@ -21,6 +21,7 @@ Veja os projetos publicados:
 
 * **Analise de Dados do Airbnb:** https://github.com/villani31/Analise_Airbnb/
 * **Panorama sobre o COVID-19:** https://github.com/villani31/Analise_COVID-19/
+* **Detectando Fraudes em Cartões de Crédito:** https://github.com/villani31/Fraudes_Cartoes_Credito/
 
 ---
 
