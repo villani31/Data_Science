@@ -22,7 +22,7 @@ Veja os projetos publicados:
 * **Analise de Dados do Airbnb:** https://github.com/villani31/Analise_Airbnb/
 * **Panorama sobre o COVID-19:** https://github.com/villani31/Analise_COVID-19/
 * **Detectando Fraudes em Cartões de Crédito:** https://github.com/villani31/Fraudes_Cartoes_Credito/
-
+* **Churn Prediction:** https://github.com/villani31/Churn_Predicition
 ---
 
 
