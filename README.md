@@ -19,7 +19,7 @@ Minhas credenciais incluem um MBA em Business Intelligence, e curso superior em 
 ## Projetos:
 Veja os projetos publicados:
 
-* **Prever custo de Seguro de Vida:** https://github.com/villani31/Prever_Custo_Seguro/
+* **Prever custo Seguro de Vida - Regressão com PyCaret:** https://github.com/villani31/Prever_Custo_Seguro/
 * **Analise de Dados do Airbnb:** https://github.com/villani31/Analise_Airbnb/
 * **Panorama sobre o COVID-19:** https://github.com/villani31/Analise_COVID-19/
 * **Churn Prediction:** https://github.com/villani31/Churn_Predicition
