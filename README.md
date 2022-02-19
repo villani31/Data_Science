@@ -19,6 +19,7 @@ Minhas credenciais incluem um MBA em Business Intelligence, e curso superior em 
 ## Projetos:
 Veja os projetos publicados:
 
+* **Classificar a saúde fetal para prever a mortalidade infantil e materna - Classificação com Pycaret:** https://github.com/villani31/Clf_Saude_Fetal
 * **Visualização de dados com Plotly - Dashboards interativos:** https://github.com/villani31/plotly/
 * **Analise previsão de vendas Olist:** https://github.com/villani31/Vendas_Olist/
 * **Prever custo Seguro de Vida - Regressão com PyCaret:** https://github.com/villani31/Prever_Custo_Seguro/
@@ -27,7 +28,3 @@ Veja os projetos publicados:
 * **Churn Prediction:** https://github.com/villani31/Churn_Predicition
 * **Detectando Fraudes em Cartões de Crédito:** https://github.com/villani31/Fraudes_Cartoes_Credito/
 ---
-
-
-
-
