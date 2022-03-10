@@ -19,6 +19,7 @@ Minhas credenciais incluem um MBA em Business Intelligence, e curso superior em 
 ## Projetos:
 Veja os projetos publicados:
 
+* **Analise de Dados de Recuso Humanos - Projeto completo de Data Science:** https://github.com/villani31/analise-rh
 * **Classificar a saúde fetal para prever a mortalidade infantil e materna - Classificação com Pycaret:** https://github.com/villani31/Clf_Saude_Fetal
 * **Visualização de dados com Plotly - Dashboards interativos:** https://github.com/villani31/plotly/
 * **Analise previsão de vendas Olist:** https://github.com/villani31/Vendas_Olist/
