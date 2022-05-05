@@ -20,6 +20,7 @@ Minhas credenciais incluem um MBA em Business Intelligence, e curso superior em 
 Veja os projetos publicados:
 
 * **Data Engineer em um Projeto que prevê pessoas com Diabetes:** https://github.com/villani31/diabetes
+* **Data Engineer - Amazon EMR, uma plataforma de Big Data:** https://github.com/villani31/Amazon_EMR
 * **Analise dos Dados de Recuso Humanos - Projeto completo de Data Science:** https://github.com/villani31/analise-rh
 * **Classificar a saúde fetal para prever a mortalidade infantil e materna - Classificação com Pycaret:** https://github.com/villani31/Clf_Saude_Fetal
 * **Visualização de dados com Plotly - Dashboards interativos:** https://github.com/villani31/plotly/
