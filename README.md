@@ -3,9 +3,9 @@
 </p>
 
 # Thiago Villani
-<sub>*Ciência de Dados*</sub>
+<sub>*Ciência de Dados | Engenheiro de Dados*</sub>
 
-Como cientista de dados estou aprendendo e treinando com projetos práticos. Usando a experiência para transformar dados em informações que agregam valor ao negócio.
+Como profissional na área de dados, estou aprendendo e treinando com projetos práticos. Usando a experiência para transformar dados em informações que agregam valor ao negócio.
 
 Minhas credenciais incluem um MBA em Business Intelligence, e curso superior em Tecnologia em Redes.
 
