@@ -3,7 +3,7 @@
 </p>
 
 # Thiago Villani
-<sub>*Ciências de Dados | Engenheiro de Dados*</sub>
+<sub>*Cientista de Dados | Engenheiro de Dados*</sub>
 
 Como profissional na área de dados, estou aprendendo e treinando com projetos práticos. Usando a experiência para transformar dados em informações que agregam valor ao negócio.
 
