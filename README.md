@@ -7,9 +7,9 @@
 
 Como profissional na área de dados, venho trabalhando em grandes projetos, com isso apreendendo e transbordando conhecimento. Usando a experiência para transformar dados em informações que agregam valor ao negócio.
 
-Minhas credenciais incluem um MBA em Business Intelligence, e graduado em Tecnologia em Redes.
+Minhas credenciais incluem um MBA em Business Intelligence, graduado em Tecnologia de Redes, certificado AWS, e vários cursos na área de Dados.
 
-**Experiência em:** Python, Data Science, Machine Learning, Data Engineer, Pipeline de Dados, ETL/ELT, Ambientes em Cloud, Banco de Dados, SQL, Ferramentas para Big Data, Sistemas Linux, Redes e Segurança.
+**Algumas das Experiência:** Python, Pyspark, Data Science, Machine Learning, Data Engineer, Pipeline de Dados, ETL/ELT, Ambientes em Cloud, Banco de Dados, SQL, Ferramentas para Big Data, Sistemas Linux, Redes e Segurança.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/thiagovillani)
