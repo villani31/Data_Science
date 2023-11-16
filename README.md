@@ -5,7 +5,7 @@
 # Thiago Villani
 <sub>*Engenheiro de Dados*</sub>
 
-Como profissional na área de dados, estou aprendendo e treinando com projetos práticos. Usando a experiência para transformar dados em informações que agregam valor ao negócio.
+Como profissional na área de dados, venho trabalhando em grandes projetos, com isso apreendendo e transbordando conhecimento. Usando a experiência para transformar dados em informações que agregam valor ao negócio.
 
 Minhas credenciais incluem um MBA em Business Intelligence, e graduado em Tecnologia em Redes.
 
@@ -20,6 +20,8 @@ Minhas credenciais incluem um MBA em Business Intelligence, e graduado em Tecnol
 ## Projetos:
 Veja os projetos publicados:
 
+* **Data Engineer - Pipeline com Auzure - Data Factory - Databricks:**
+https://github.com/villani31/Databricks-Pipeline-Azure
 * **Data Engineer - API REST com Flask:** https://github.com/villani31/Flask_API/blob/main/README.md
 * **Data Engineer - Amazon EMR, uma plataforma de Big Data:** https://github.com/villani31/Amazon_EMR
 * **Data Engineer em um Projeto que prevê pessoas com Diabetes:** https://github.com/villani31/diabetes
