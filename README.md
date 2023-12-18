@@ -26,6 +26,8 @@ https://github.com/villani31/Databricks-Pipeline-Azure
 * **Data Engineer - Amazon EMR, uma plataforma de Big Data:** https://github.com/villani31/Amazon_EMR
 * **Data Engineer em um Projeto que prevê pessoas com Diabetes:** https://github.com/villani31/diabetes
 * **Modelagem de Dados - Conceitos de Banco de Dados:** https://github.com/villani31/modelagem_dados
+* **Kubernetes - Sistema de notícias (conceitos básico):**
+https://github.com/villani31/Kubernetes
 --------
 * **Analise dos Dados de Recuso Humanos - Projeto completo de Data Science:** https://github.com/villani31/analise-rh
 * **Classificar a saúde fetal para prever a mortalidade infantil e materna - Classificação com Pycaret:** https://github.com/villani31/Clf_Saude_Fetal
