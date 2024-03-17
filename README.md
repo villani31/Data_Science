@@ -20,6 +20,8 @@ Minhas credenciais incluem um MBA em Business Intelligence, graduado em Tecnolog
 ## Projetos:
 Veja os projetos publicados:
 
+* **Data Engineer - ETL com Python - Duckdb:**
+https://github.com/villani31/python-etl-duckdb
 * **Data Engineer - Pipeline com Auzure - Data Factory - Databricks:**
 https://github.com/villani31/Databricks-Pipeline-Azure
 * **Data Engineer - API REST com Flask:** https://github.com/villani31/Flask_API/blob/main/README.md
