@@ -14,7 +14,6 @@ Minhas credenciais incluem um MBA em Business Intelligence, graduado em Tecnolog
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/thiagovillani)
 * [Medium](https://medium.com/@iamthiagovillani)
-* [Python](https://github.com/villani31/Python)
 
 
 ## Projetos:
