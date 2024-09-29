@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="bunner.jpeg" height=270px >
+  <img src="banner.jpeg" height=270px >
 </p>
 
 # Thiago Villani
