@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img-data-engineer.jpeg" >
+  <img src="img-data-engineer.jpeg" height=400px >
 </p>
 
 # Thiago Villani
