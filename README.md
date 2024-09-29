@@ -40,4 +40,9 @@ https://github.com/villani31/Kubernetes
 * **Panorama sobre o COVID-19:** https://github.com/villani31/Analise_COVID-19/
 * **Churn Prediction:** https://github.com/villani31/Churn_Predicition
 * **Detectando Fraudes em Cartões de Crédito:** https://github.com/villani31/Fraudes_Cartoes_Credito/
----
+---------
+* **Python - Sistema de cadastro de produtos, integrado ao Banco de Dados:** https://github.com/villani31/Python_cadastro_loja_BD
+* **Python -  Sistema de cadastro valor mensal:** https://github.com/villani31/Python_venda_mensal
+* **Python -  Exemplo usando Decorators:** https://github.com/villani31/Python_Decoradores
+-------------
+
