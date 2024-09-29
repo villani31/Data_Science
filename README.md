@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.jpeg" width=90% >
+  <img src="banner.jpeg" width=100% >
 </p>
 
 # Thiago Villani
