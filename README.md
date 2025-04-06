@@ -19,6 +19,8 @@ Minhas credenciais incluem um MBA em Business Intelligence, graduado em Tecnolog
 ## Projetos:
 Veja os projetos publicados:
 
+* **Data Engineer - Workflow com Agente de IA no n8n:** 
+https://github.com/villani31/workflow_n8n_agentia
 * **Data Engineer - ETL com Python - Duckdb:** 
 https://github.com/villani31/python-etl-duckdb
 * **Data Engineer - Pipeline com Auzure - Data Factory - Databricks:**
